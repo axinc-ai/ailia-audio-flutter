@@ -18,5 +18,5 @@ ailia Audio is a library designed to solve this issue. By providing various APIs
 
 ## API specification
 
-https://github.com/axinc-ai/ailia-sdk
+https://github.com/ailia-ai/ailia-sdk
 
